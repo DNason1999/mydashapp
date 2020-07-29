@@ -1,0 +1,8 @@
+{
+   "name": "mydashapp",
+   "buildpacks": [
+      {
+         "url": "heroku/python"
+      }
+   ]
+}
